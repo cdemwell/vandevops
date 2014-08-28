@@ -14,7 +14,7 @@ More than just a guideline, all participants in our channel are required to agre
 
 #Need Help?
 
-Contact one of the channel operators. Our policy is not to lurk with our badges on, but you can /msg cdemwell, attractiveape, or laurent.
+Contact one of the channel operators. Our policy is not to lurk with our badges on, but you can /msg cdemwell (twitter: @cdemwell), attractiveape, or laurent.
 
 #The Quick Version
 
@@ -34,7 +34,7 @@ Channel operators will be happy to help participants through direct intervention
 
 We expect participants to follow these rules at all times, on and offline, with everyone involved in the channel. Harassment of our colleagues outside of #vanops will not be simply ignored.
 
-#Outsiders
+#Recruiters, Sales, and other Promoters
 
 \#vanops is for community members both new and old. You are not welcome to merely recruit in the channel. We consider anyone who joins and immediately starts to try to recruit staff to be contravening this rule. Come and get to know us, and then you can tell us about positions that may interest members.
 
