@@ -10,7 +10,7 @@ The Vancouver operations/devops community is a mixture of professionals and volu
 
 More than just a guideline, all participants in our channel are required to agree with and abide by the following code of conduct. Channel moderators will enforce this code at all times. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
 
-> tl;dr: Don’t be a Jerk, work to make things better
+> tl;dr: Donâ€™t be a Jerk, work to make things better
 
 #Need Help?
 
@@ -22,7 +22,7 @@ Contact one of the channel operators. Our policy is not to lurk with our badges 
 
 #The Less Quick Version
 
-Harassment includes offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, sexualised commentary, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes offensive comments (online, verbal, or otherwise, irrespective of media) related to identity, gender, age, sexual orientation, disability, physical appearance, body size, race, religion, sexualised commentary, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behaviour are expected to comply immediately - although we hope it won't come to that point.
 
